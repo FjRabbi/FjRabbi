@@ -29,7 +29,7 @@ I'm passionate about programming.
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
