@@ -25,6 +25,7 @@ I'm passionate about programming.
 ### 🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PySpark](https://img.shields.io/badge/-PySpark-yellow)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![SQLite](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=SQLite)
@@ -34,6 +35,7 @@ I'm passionate about programming.
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
 
 ---
 
@@ -81,4 +83,4 @@ I'm passionate about programming.
   
 </div>
 
-Last Edited on: 11/07/2021
+Last Edited on: 02/05/2022
