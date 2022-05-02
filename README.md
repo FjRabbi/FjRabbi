@@ -25,7 +25,7 @@ I'm passionate about programming.
 ### 🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PySpark](https://img.shields.io/badge/-PySpark-yellow)
+![PySpark](https://img.shields.io/badge/-Apache%20Spark-black?style=flat-square&logo=Apache%20Spark)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![SQLite](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=SQLite)
