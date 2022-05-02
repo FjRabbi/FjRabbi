@@ -29,13 +29,12 @@ I'm passionate about programming.
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
@@ -44,7 +43,6 @@ I'm passionate about programming.
 
 
 ### Connect with me🤝: 
-<br/>
 
 <a href="https://github.com/FjRabbi">
   <img align="left" alt="FjRabbi's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
