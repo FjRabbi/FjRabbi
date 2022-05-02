@@ -1,7 +1,7 @@
 
 
 ### About me:
-Hello there,<br/>
+Hello there,
 It's Md Fajle Rabbi Islam.<br/>
 I am Data Scientist.<br/>
 I'm passionate about programming.
@@ -24,25 +24,22 @@ I'm passionate about programming.
 ---
 ### 🛠️ Languages and Tools:
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
-![SQLite](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=SQLite)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![SQLite](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=SQLite)
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ---
 
 <details>
-<summary> Connect with me🤝: </summary>  
-
+ Connect with me🤝: 
 <br/>
-
 
 <a href="https://github.com/FjRabbi">
   <img align="left" alt="FjRabbi's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
