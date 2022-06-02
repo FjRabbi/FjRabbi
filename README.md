@@ -51,7 +51,7 @@ I'm passionate about programming.
   <img align="left" alt="FjRabbi's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="https://twitter.com/T35LA_NFT">
+<a href="https://twitter.com/TeslaWAGMI">
   <img align="left" alt="FjRabbi's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
