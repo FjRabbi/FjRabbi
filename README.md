@@ -6,7 +6,7 @@
 
 Hello there,
 It's Md Fajle Rabbi Islam.<br/>
-I am <b>Data Scientist<b>.<br/>
+I am <strong>Data Scientist</strong>.<br/>
 I'm passionate about programming.
 
 
