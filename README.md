@@ -10,7 +10,7 @@ I'm passionate about programming.
 <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 -->
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img  alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style='vertical-align: middle; float: right;/>
 
 
 - ⚡ I love to learn new things everyday.
