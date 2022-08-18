@@ -75,7 +75,7 @@ I'm passionate about programming.
 </a>
 
 <a href="https://github.com/FjRabbi">
- <img align="center" src="[https://github-readme-stats.vercel.app/api?username=FjRabbi](https://github-readme-stats.vercel.app/api/top-langs/?username=FjRabbi&layout=compact)&show_icons=true&theme=merko&line_height=27" alt="FjRabbi's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FjRabbi&layout=compact&langs_count =10&show_icons=true&theme=merko&line_height=27" alt="FjRabbi's github stats"/>
  </a>
 
 <br/>
