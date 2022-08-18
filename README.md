@@ -7,8 +7,11 @@ I am Data Scientist.<br/>
 I'm passionate about programming.
 
 
-
+<!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+-->
+<img align="right" alt="GIF" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen" />
+
 
 - ⚡ I love to learn new things everyday.
 - 🤔 I’m looking for help with Open source Contribution.
