@@ -30,7 +30,7 @@ I'm passionate about programming.
 ---
 ### 🛠️ Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python?w=512&h=512)
 ![PySpark](https://img.shields.io/badge/-Apache%20Spark-black?style=flat-square&logo=Apache%20Spark)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
