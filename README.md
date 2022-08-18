@@ -1,6 +1,9 @@
 
 
 ### About me:
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 Hello there,
 It's Md Fajle Rabbi Islam.<br/>
 I am Data Scientist.<br/>
@@ -10,7 +13,7 @@ I'm passionate about programming.
 <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 
 - ⚡ I love to learn new things everyday.
