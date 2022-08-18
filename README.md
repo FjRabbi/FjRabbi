@@ -67,7 +67,7 @@ I'm passionate about programming.
 ### Github Activity ✔:
 
 <a href="https://github.com/FjRabbi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=merko&line_height=27&langs_count =10" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&langs_count=10&show_icons=true&theme=merko&line_height=27" />
   </a>
 
 <a href="https://github.com/FjRabbi">
@@ -76,9 +76,7 @@ I'm passionate about programming.
 
 <br/>
 
-<a href="https://github.com/FjRabbi">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FjRabbi&layout=compact&langs_count =10&show_icons=true&theme=merko&line_height=27" alt="FjRabbi's github stats"/>
- </a>
+
 
 
 <br/>
