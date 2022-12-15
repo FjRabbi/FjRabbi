@@ -80,6 +80,11 @@ I'm passionate about programming.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=merko&count_private=true&line_height=30" alt="FjRabbi's github stats"/>
 </a>
 
+<a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi" alt="FjRabbi" />
+</p>
+</a>
+
 <br/>
 
 
