@@ -22,8 +22,8 @@ I'm passionate about programming.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code & read novel.
 - 🤝 Feel free to connect with me anytime
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=FjRabbi.FjRabbi)
+
+- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=FjRabbi.FjRabbi)
 
 <br/>
 
