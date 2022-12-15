@@ -48,21 +48,21 @@ I'm passionate about programming.
 ---
 
 ### 🤝 Connect with me: 
-<br/>
+
 <a href="https://github.com/FjRabbi">
-  <img align="left" alt="FjRabbi's Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="FjRabbi's Github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
 <a href="https://www.facebook.com/md.fajle.rabbi.islam.18/">
-  <img align="left" alt="FjRabbi's Facebook" width="30px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+  <img align="left" alt="FjRabbi's Facebook" width="26px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
 <a href="https://twitter.com/TeslaWAGMI">
-  <img align="left" alt="FjRabbi's Twitter" width="30px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+  <img align="left" alt="FjRabbi's Twitter" width="26px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/md-fajle-rabbi-islam/">
-  <img align="left" alt="FjRabbi's Linkdein" width="30px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="FjRabbi's Linkdein" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
