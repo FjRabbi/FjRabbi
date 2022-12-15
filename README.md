@@ -23,7 +23,7 @@ I'm passionate about programming.
 - ⚡ Fun fact: I 💖 to code & read novel.
 - 🤝 Feel free to connect with me anytime.
 - 🎢 Profile Visitors Count:  
-                   ![](https://visitor-badge.glitch.me/badge?page_id=FjRabbi.FjRabbi)
+     ![](https://visitor-badge.glitch.me/badge?page_id=FjRabbi.FjRabbi)
 
 <br/>
 
