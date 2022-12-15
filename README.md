@@ -73,17 +73,17 @@ I'm passionate about programming.
 ### Github Activity ✔:
 
 <a href="https://github.com/FjRabbi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&langs_count=10&show_icons=true&theme=merko&layout=default&count_private=true&line_height=30" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&langs_count=10&show_icons=true&theme=gruvbox&layout=default&count_private=true&line_height=30" />
   </a>
 
 <a href="https://github.com/FjRabbi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=merko&count_private=true&line_height=30" alt="FjRabbi's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=gruvbox&count_private=true&line_height=30" alt="FjRabbi's github stats"/>
 </a>
 
 <br/>
 
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=merko" alt="FjRabbi's Streak Stats"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=gruvbox" alt="FjRabbi's Streak Stats"/></p>
 
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi" alt="FjRabbi's Trophy" />
