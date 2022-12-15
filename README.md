@@ -82,7 +82,9 @@ I'm passionate about programming.
 
 <br/>
 
+
 ---
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi's Streak Stats"/></p>
 
 ---
