@@ -47,8 +47,9 @@ I'm passionate about programming.
 
 ---
 
-<summary> Connect with me🤝: </summary>  
+<summary> ### Connect with me🤝: </summary>  
 
+<br/>
 <a href="https://github.com/FjRabbi">
   <img align="left" alt="FjRabbi's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
