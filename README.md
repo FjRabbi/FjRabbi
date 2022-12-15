@@ -85,7 +85,7 @@ I'm passionate about programming.
 
 <a>
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi" alt="FjRabbi" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=merko" alt="FjRabbi" />
 </p>
 </a>
 
