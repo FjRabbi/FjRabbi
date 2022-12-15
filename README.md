@@ -83,7 +83,7 @@ I'm passionate about programming.
 <br/>
 
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=gruvbox" alt="FjRabbi's Streak Stats"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi's Streak Stats"/></p>
 
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi" alt="FjRabbi's Trophy" />
