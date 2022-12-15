@@ -19,12 +19,12 @@ I'm passionate about programming.
 - ⚡ I love to learn new things everyday.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Data Science.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I 💖 to code & read novel.
-- 🤝 Feel free to connect with me anytime
-
+- 🤝 Feel free to connect with me anytime.
 - 🎢 Profile Visitors Count:  
-          ![](https://visitor-badge.glitch.me/badge?page_id=FjRabbi.FjRabbi)
+                   
+                   ![](https://visitor-badge.glitch.me/badge?page_id=FjRabbi.FjRabbi)
 
 <br/>
 
