@@ -47,7 +47,7 @@ I'm passionate about programming.
 
 ---
 
-### Connect with me🤝: 
+### 🤝 Connect with me: 
 <br/>
 <a href="https://github.com/FjRabbi">
   <img align="left" alt="FjRabbi's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
@@ -70,7 +70,7 @@ I'm passionate about programming.
 
 ---
 
-### Github Activity ✔:
+### ✔ Github Activity:
 
 <a href="https://github.com/FjRabbi">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019" />
