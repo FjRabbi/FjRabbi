@@ -80,20 +80,15 @@ I'm passionate about programming.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=merko&count_private=true&line_height=30" alt="FjRabbi's github stats"/>
 </a>
 
-
-
-
-<a>
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=merko" alt="FjRabbi" />
-</p>
-</a>
 
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=merko" alt="FjRabbi"/></p>
 
 <br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=merko" alt="FjRabbi" />
+</p>
 <br/>
 
 
