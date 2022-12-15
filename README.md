@@ -77,13 +77,13 @@ I'm passionate about programming.
   </a>
 
 <a href="https://github.com/FjRabbi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=cobalt&count_private=true&line_height=30" alt="FjRabbi's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=cobalt&count_private=true&line_height=30&title_color=75edb8" alt="FjRabbi's github stats"/>
 </a>
 
 <br/>
 
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=cobalt" alt="FjRabbi's Streak Stats"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=cobalt&title_color=75edb8" alt="FjRabbi's Streak Stats"/></p>
 
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi" alt="FjRabbi's Trophy" />
