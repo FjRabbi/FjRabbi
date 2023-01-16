@@ -83,6 +83,7 @@ I'm passionate about programming.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi's Streak Stats"/></p>
 
+
 ---
 
 ### 🏆 GitHub Profile Trophy:
