@@ -80,9 +80,6 @@ I'm passionate about programming.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30&title_color=fd8019" alt="FjRabbi's github stats"/>
 </a>
 
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FjRabbi&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi's Streak Stats"/></p>
 
