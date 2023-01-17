@@ -66,8 +66,6 @@ I'm passionate about programming.
 </a>
 
 <br/>
-<br/>
-<br/>
 
 ---
 
