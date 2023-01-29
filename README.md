@@ -26,6 +26,10 @@ I'm passionate about programming.
      ![](https://visitor-badge.glitch.me/badge?page_id=FjRabbi.FjRabbi)
 
 <br/>
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/FjRabbi/count.svg" alt ="Loading">
+
+<br/>
 
 ---
 ### 🛠️ Languages and Tools:
