@@ -32,6 +32,7 @@ I'm passionate about programming.
 ---
 ---
 <br>
+
 ### 🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
