@@ -31,7 +31,6 @@ I'm passionate about programming.
 
 ---
 ---
-<br>
 
 ### 🛠️ Languages and Tools:
 
