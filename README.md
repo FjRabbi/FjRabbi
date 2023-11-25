@@ -24,7 +24,8 @@ I'm passionate about programming.
 - 🤝 Feel free to connect with me anytime.
   
 
-### 🎢 Profile Visitors Count: <img align="left" src = "https://profile-counter.glitch.me/FjRabbi/count.svg" alt ="Loading">
+### 🎢 Profile Visitors Count: 
+<img align="left" src = "https://profile-counter.glitch.me/FjRabbi/count.svg" alt ="Loading">
 
 
 <br/>
