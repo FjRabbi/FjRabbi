@@ -6,7 +6,7 @@
 
 Hello there,
 It's Md Fajle Rabbi Islam.<br/>
-I am <strong>Data Sciene Enthusiast</strong>.<br/>
+I am <strong>Data Science Enthusiast</strong>.<br/>
 I'm passionate about programming.
 
 
@@ -16,7 +16,7 @@ I'm passionate about programming.
 
 
 
-- ⚡ I love to learn new things everyday.
+- ⚡ I love to learn new things every day.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Data Science.
 - 😄 Pronouns: He/Him.
@@ -85,16 +85,12 @@ I'm passionate about programming.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="FjRabbi's Language" /></p>
 
 
-
-
 <a href="https://github.com/FjRabbi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30&title_color=fd8019" alt="FjRabbi's github stats"/>
 </a>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi's Streak Stats"/></p>
-
-
 
 
 <br/>
