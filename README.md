@@ -58,16 +58,9 @@ I'm passionate about programming.
 </a>
 
 <a href="https://www.facebook.com/md.fajle.rabbi.islam.18/">
-  <img align="left" alt="FjRabbi's Facebook" width="26px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<a href="https://www.facebook.com/md.fajle.rabbi.islam.18/">
   <img align="left" alt="FjRabbi's Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png" />
 </a>
 
-<a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png" alt="Twitter" title="Twitter" width="25" height="25" />
-</a>
 
 <a href="https://twitter.com/TeslaWAGMI">
   <img align="left" alt="FjRabbi's Twitter" width="26px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
