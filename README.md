@@ -96,7 +96,7 @@ I'm passionate about programming.
 <br/>
 <br/>
 <br/>
-
+<!--
 ---
 ### 🏆 GitHub Profile Trophy:
 <br/>
@@ -110,3 +110,4 @@ I'm passionate about programming.
 ---
 
 Last Edited on: 19/08/2024
+-->
