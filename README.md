@@ -3,17 +3,17 @@
 # Md Fajle Rabbi Islam
 ### *Business Analyst & Technology Strategist*
 
-Founder and strategist at **Eruditech**, spearheading end-to-end digital solutions through **Eruditech Labs** (Web, Mobile, AI) and driving market expansion via **Eruditech Growth** (Brand Strategy, Growth Marketing, Business Consultancy). Focused on architecting scalable enterprise systems, business intelligence platforms, and high-impact digital products.
+I am a Business Analyst and Technology Strategist passionate about business intelligence, data modeling, and architecting scalable enterprise systems. I focus on bridging the gap between raw data and actionable business growth.
 
----
+<br>
 
 ### ⚡ Executive Focus & Expertise
-* **Core Competencies:** Business Intelligence, Data Modeling, DAX Architecture, Systems Analysis, Strategic Advisory.
+* **Core Competencies:** Business Intelligence, Data Modeling, DAX Architecture, Systems Analysis, and Strategic Advisory.
 * **Current Focus:** Scaling full-stack digital products and enterprise data solutions.
 * **Collaborations:** Open to enterprise consulting, BI optimization, and strategic partnerships.
 * **Off-Duty:** Marathon runner, long-distance endurance enthusiast, and avid reader.
 
----
+<br>
 
 ### 🛠️ Technical Stack & Frameworks
 
@@ -27,7 +27,7 @@ Founder and strategist at **Eruditech**, spearheading end-to-end digital solutio
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
----
+<br>
 
 ### 🌐 Connect & Network
 
@@ -43,27 +43,27 @@ Founder and strategist at **Eruditech**, spearheading end-to-end digital solutio
   </a>
 </p>
 
----
+<br>
 
 ### 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast&hide_border=false" alt="FjRabbi Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30" alt="FjRabbi GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&line_height=30" alt="FjRabbi GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="FjRabbi Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="FjRabbi Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=dark_lover&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FjRabbi&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
