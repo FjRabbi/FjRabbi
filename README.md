@@ -5,19 +5,20 @@
 Hello there!
 I am Md Fajle Rabbi Islam.<br/>
 I am a <strong>Business Analyst and Tech Strategist</strong>.<br/>
+I currently lead strategy and development at Eruditech, overseeing operations for both Eruditech Labs and Eruditech Growth.<br/>
 I am passionate about business intelligence, data modeling, and scaling tech solutions.
 
-- ⚡ I love to learn new things every day.
-- 🤔 I am looking for help with open source contributions in data analytics.
-- 💬 Ask me about Power BI, DAX, and Business Strategy.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I 💖 to code, read novels, and run marathons.
-- 🤝 Feel free to connect with me anytime.
+* ⚡ I love to learn new things every day.
+* 🤔 I am looking for help with open source contributions in data analytics.
+* 💬 Ask me about Power BI, DAX, and Business Strategy.
+* 😄 Pronouns: He/Him.
+* ⚡ Fun fact: I 💖 to code, read novels, and run marathons.
+* 🤝 Feel free to connect with me anytime.
 
 <br>
 
 ### 🎢 Profile Visitors Count:
-<img align="left" src="https://profile-counter.glitch.me/FjRabbi/count.svg" alt="Loading">
+<img align="left" src="https://komarev.com/ghpvc/?username=FjRabbi&color=blue&style=flat-square" alt="Profile views">
 <br><br>
 
 ### 🛠️ Languages and Tools:
@@ -34,15 +35,13 @@ I am passionate about business intelligence, data modeling, and scaling tech sol
 ### 🤝 Connect with me:
 <p>
 <a href="https://github.com/FjRabbi">
-  <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/md-fajle-rabbi-islam/">
-  <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://twitter.com/TeslaWAGMI">
-  <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 </p>
 <br>
@@ -50,18 +49,18 @@ I am passionate about business intelligence, data modeling, and scaling tech sol
 ### ✔ Github Activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30" alt="FjRabbi's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30&cache_seconds=86400" alt="FjRabbi's github stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="FjRabbi's Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact&cache_seconds=86400" alt="FjRabbi's Language" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi's Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast&hide_border=true" alt="FjRabbi's Streak Stats"/>
 </p>
 
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=dark_lover&column=7" alt="FjRabbi's Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=dark_lover&column=7&margin-w=15" alt="FjRabbi's Trophy" />
   </a>
 </p>
