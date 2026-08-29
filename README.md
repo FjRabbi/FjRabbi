@@ -2,112 +2,66 @@
 
 ### :octocat: About me:
 
-
-
-Hello there,
-It's Md Fajle Rabbi Islam.<br/>
-I am <strong>Data Science Enthusiast</strong>.<br/>
-I'm passionate about programming.
-
-
-<!--
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
--->
-
-
+Hello there!
+I am Md Fajle Rabbi Islam.<br/>
+I am a <strong>Business Analyst and Tech Strategist</strong>.<br/>
+I am passionate about business intelligence, data modeling, and scaling tech solutions.
 
 - ⚡ I love to learn new things every day.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Data Science.
+- 🤔 I am looking for help with open source contributions in data analytics.
+- 💬 Ask me about Power BI, DAX, and Business Strategy.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I 💖 to code & read novel.
+- ⚡ Fun fact: I 💖 to code, read novels, and run marathons.
 - 🤝 Feel free to connect with me anytime.
-  
-<!--
-### 🎢 Profile Visitors Count: 
-<img align="left" src = "https://profile-counter.glitch.me/FjRabbi/count.svg" alt ="Loading">
--->
+
 <br>
 
----
----
-<!--
+### 🎢 Profile Visitors Count:
+<img align="left" src="https://profile-counter.glitch.me/FjRabbi/count.svg" alt="Loading">
+<br><br>
+
 ### 🛠️ Languages and Tools:
+<p>
+<img src="https://img.shields.io/badge/Power_BI-black?style=flat-square&logo=powerbi" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=SQLite" alt="SQL"/>
+<img src="https://img.shields.io/badge/Tableau-black?style=flat-square&logo=Tableau" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma" alt="Figma"/>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PySpark](https://img.shields.io/badge/-Apache%20Spark-black?style=flat-square&logo=Apache%20Spark)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-
----
-
-### 🤝 Connect with me: 
-
+### 🤝 Connect with me:
+<p>
 <a href="https://github.com/FjRabbi">
-  <img align="left" alt="FjRabbi's Github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </a>
-
-<a href="https://www.facebook.com/md.fajle.rabbi.islam.18/">
-  <img align="left" alt="FjRabbi's Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png" />
-</a>
-
-
-<a href="https://twitter.com/TeslaWAGMI">
-  <img align="left" alt="FjRabbi's Twitter" width="26px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/md-fajle-rabbi-islam/">
-  <img align="left" alt="FjRabbi's Linkdein" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-
-<br/>
-
----
+&nbsp;&nbsp;
+<a href="https://twitter.com/TeslaWAGMI">
+  <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+</a>
+</p>
+<br>
 
 ### ✔ Github Activity:
 
-<!--
-<a href="https://github.com/FjRabbi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019" />
- </a>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="FjRabbi's Language" /></p>
-
-
-<a href="https://github.com/FjRabbi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30&title_color=fd8019" alt="FjRabbi's github stats"/>
-</a>
--->
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi's Streak Stats"/></p>
-
-
-<br/>
-<br/>
-<br/>
-<!--
----
-### 🏆 GitHub Profile Trophy:
-<br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=dark_lover&column=9" alt="FjRabbi's Trophy" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30" alt="FjRabbi's github stats"/>
 </p>
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="FjRabbi's Language" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi's Streak Stats"/>
+</p>
 
-  
-</div>
-
----
-
-Last Edited on: 19/08/2024
--->
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=dark_lover&column=7" alt="FjRabbi's Trophy" />
+  </a>
+</p>
