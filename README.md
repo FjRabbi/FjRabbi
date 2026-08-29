@@ -9,9 +9,9 @@ I am a Business Analyst and Technology Strategist passionate about business inte
 
 ### ⚡ Executive Focus & Expertise
 * **Core Competencies:** Business Intelligence, Data Modeling, DAX Architecture, Systems Analysis, and Strategic Advisory.
-* **Current Focus:** Scaling full-stack digital products and enterprise data solutions.
-* **Collaborations:** Open to enterprise consulting, BI optimization, and strategic partnerships.
-* **Off-Duty:** Marathon runner, long-distance endurance enthusiast, and avid reader.
+* **Current Focus:** Scaling enterprise data solutions and optimizing digital products.
+* **Collaborations:** Open to data analytics consulting, BI optimization, and strategic partnerships.
+* **Off Duty:** Marathon runner, long distance endurance enthusiast, and avid reader.
 
 <br>
 
@@ -48,19 +48,15 @@ I am a Business Analyst and Technology Strategist passionate about business inte
 ### 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=github-dark" alt="FjRabbi Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&line_height=30" alt="FjRabbi GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FjRabbi&theme=github_dark" alt="FjRabbi Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="FjRabbi Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=dark_lover&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FjRabbi&theme=github_dark" alt="FjRabbi Top Languages" />
 </p>
 
 <br>
