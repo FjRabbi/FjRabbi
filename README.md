@@ -3,14 +3,14 @@
 # Md Fajle Rabbi Islam
 ### *Business Analyst & Technology Strategist*
 
-I am a Business Analyst and Technology Strategist passionate about business intelligence, data modeling, and architecting scalable enterprise systems. I focus on bridging the gap between raw data and actionable business growth.
+I am a Business Analyst and Technology Strategist passionate about business intelligence, data modeling, and architecting scalable, AI-driven enterprise systems. I focus on bridging the gap between raw data, artificial intelligence, and actionable business growth.
 
 <br>
 
 ### ⚡ Executive Focus & Expertise
-* **Core Competencies:** Business Intelligence, Data Modeling, DAX Architecture, Systems Analysis, and Strategic Advisory.
-* **Current Focus:** Scaling enterprise data solutions and optimizing digital products.
-* **Collaborations:** Open to data analytics consulting, BI optimization, and strategic partnerships.
+* **Core Competencies:** Business Intelligence, Data Modeling, DAX Architecture, Systems Analysis, and AI Integration.
+* **Current Focus:** Scaling enterprise data solutions, optimizing digital products, and leading AI development initiatives.
+* **Collaborations:** Open to data analytics consulting, strategic AI partnerships, and BI optimization.
 * **Off Duty:** Marathon runner, long distance endurance enthusiast, and avid reader.
 
 <br>
@@ -23,8 +23,6 @@ I am a Business Analyst and Technology Strategist passionate about business inte
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=openai&logoColor=white" alt="Machine Learning" />
 </p>
 
 <br>
