@@ -1,6 +1,6 @@
 <img align="right" width="45%" alt="Tech Workspace Illustration" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-# FjRabbi
+# Md Fajle Rabbi Islam
 ### *Business Analyst & Technology Strategist*
 
 I am a Business Analyst and Technology Strategist passionate about business intelligence, data modeling, and architecting scalable enterprise systems. I focus on bridging the gap between raw data and actionable business growth.
@@ -48,7 +48,7 @@ I am a Business Analyst and Technology Strategist passionate about business inte
 ### 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FjRabbi&theme=github-dark" alt="FjRabbi Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=github-dark" alt="FjRabbi Streak" />
 </p>
 
 <p align="center">
