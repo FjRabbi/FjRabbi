@@ -48,7 +48,7 @@ I am a Business Analyst and Technology Strategist passionate about business inte
 ### 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=github-dark" alt="FjRabbi Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FjRabbi&theme=github-dark" alt="FjRabbi Streak" />
 </p>
 
 <p align="center">
