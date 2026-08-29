@@ -1,66 +1,70 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="45%" alt="Tech Workspace Illustration" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### :octocat: About me:
+# Md Fajle Rabbi Islam
+### *Business Analyst & Technology Strategist*
 
-Hello there!
-I am Md Fajle Rabbi Islam.<br/>
-I am a <strong>Business Analyst and Tech Strategist</strong>.<br/>
-I currently lead strategy and development at Eruditech, overseeing operations for both Eruditech Labs and Eruditech Growth.<br/>
-I am passionate about business intelligence, data modeling, and scaling tech solutions.
+Founder and strategist at **Eruditech**, spearheading end-to-end digital solutions through **Eruditech Labs** (Web, Mobile, AI) and driving market expansion via **Eruditech Growth** (Brand Strategy, Growth Marketing, Business Consultancy). Focused on architecting scalable enterprise systems, business intelligence platforms, and high-impact digital products.
 
-* ⚡ I love to learn new things every day.
-* 🤔 I am looking for help with open source contributions in data analytics.
-* 💬 Ask me about Power BI, DAX, and Business Strategy.
-* 😄 Pronouns: He/Him.
-* ⚡ Fun fact: I 💖 to code, read novels, and run marathons.
-* 🤝 Feel free to connect with me anytime.
+---
 
-<br>
+### ⚡ Executive Focus & Expertise
+* **Core Competencies:** Business Intelligence, Data Modeling, DAX Architecture, Systems Analysis, Strategic Advisory.
+* **Current Focus:** Scaling full-stack digital products and enterprise data solutions.
+* **Collaborations:** Open to enterprise consulting, BI optimization, and strategic partnerships.
+* **Off-Duty:** Marathon runner, long-distance endurance enthusiast, and avid reader.
 
-### 🎢 Profile Visitors Count:
-<img align="left" src="https://komarev.com/ghpvc/?username=FjRabbi&color=blue&style=flat-square" alt="Profile views">
-<br><br>
+---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Technical Stack & Frameworks
+
 <p>
-<img src="https://img.shields.io/badge/Power_BI-black?style=flat-square&logo=powerbi" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=SQLite" alt="SQL"/>
-<img src="https://img.shields.io/badge/Tableau-black?style=flat-square&logo=Tableau" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 🤝 Connect with me:
+---
+
+### 🌐 Connect & Network
+
 <p>
-<a href="https://github.com/FjRabbi">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/md-fajle-rabbi-islam/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/TeslaWAGMI">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-</p>
-<br>
-
-### ✔ Github Activity:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30&cache_seconds=86400" alt="FjRabbi's github stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact&cache_seconds=86400" alt="FjRabbi's Language" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast&hide_border=true" alt="FjRabbi's Streak Stats"/>
-</p>
-
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=dark_lover&column=7&margin-w=15" alt="FjRabbi's Trophy" />
+  <a href="https://www.linkedin.com/in/md-fajle-rabbi-islam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://x.com/fjrabbi_islam">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://github.com/FjRabbi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 📊 Performance & Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast&hide_border=false" alt="FjRabbi Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30" alt="FjRabbi GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FjRabbi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="FjRabbi Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=dark_lover&column=7&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FjRabbi&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
